@@ -2,5 +2,5 @@
 
 > v2.0
 
-- feature alpha
+- feature alpha (with bug fix)
 - feature bravo
