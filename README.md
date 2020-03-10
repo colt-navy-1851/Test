@@ -1,6 +1,6 @@
 # Test
 
-> v4.0 (echo squared)
+> v4.0 (echo cubed)
 
 - feature alpha (with bug fix)
 - feature bravo (with bug fix)
