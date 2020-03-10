@@ -1,6 +1,6 @@
 # Test
 
-> v2.0
+> v2.1
 
 - feature alpha (with bug fix)
-- feature bravo
+- feature bravo (with bug fix)
