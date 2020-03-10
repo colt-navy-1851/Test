@@ -6,3 +6,4 @@
 - feature bravo (with bug fix)
 - feature charlie (with bug fix)
 - feature delta
+- feature my-new-feature-1
