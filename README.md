@@ -7,3 +7,4 @@
 - feature charlie (with bug fix)
 - feature delta
 - feature my-new-feature-1
+- feature my-new-feature-2
