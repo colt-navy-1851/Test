@@ -8,3 +8,4 @@
 - feature delta
 - feature my-new-feature-1
 - feature my-new-feature-2
+- feature my-new-feature-3
