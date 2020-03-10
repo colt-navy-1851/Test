@@ -1,5 +1,5 @@
 # Test
 
-> v1.0
+> v1.1
 
-- feature alpha
+- feature alpha (with bug fix)
